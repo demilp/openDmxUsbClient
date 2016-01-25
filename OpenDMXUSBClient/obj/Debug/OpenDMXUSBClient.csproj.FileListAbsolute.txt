@@ -1,0 +1,5 @@
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\bin\Debug\OpenDMXUSBClient.exe.config
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\bin\Debug\OpenDMXUSBClient.exe
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\bin\Debug\OpenDMXUSBClient.pdb
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\obj\Debug\OpenDMXUSBClient.exe
+C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\obj\Debug\OpenDMXUSBClient.pdb
