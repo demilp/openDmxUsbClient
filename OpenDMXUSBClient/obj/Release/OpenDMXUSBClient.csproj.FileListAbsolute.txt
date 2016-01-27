@@ -7,6 +7,5 @@ C:\Users\demianl\Documents\Visual Studio 2013\Projects\OpenDMXUSBClient\OpenDMXU
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\bin\Release\OpenDMXUSBClient.exe.config
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\bin\Release\OpenDMXUSBClient.exe
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\bin\Release\OpenDMXUSBClient.pdb
-C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\obj\Release\OpenDMXUSBClient.csprojResolveAssemblyReference.cache
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\obj\Release\OpenDMXUSBClient.exe
 C:\Users\Demian\Documents\Visual Studio 2015\Projects\OpenDMXUSBClient\OpenDMXUSBClient\obj\Release\OpenDMXUSBClient.pdb
